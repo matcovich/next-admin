@@ -1,8 +1,8 @@
 
-export default function Home() {
+export default function Clientes() {
   return (
       <div className=" self-center text-4xl ">
-        <h1>Pagina de inicio del Home</h1>
+        <h1>Pagina de clientes </h1>
       </div>
       );
 }
